@@ -1,0 +1,8 @@
+*.class
+*.dex
+*.apk.tmp
+classes/
+dex/
+rescompiled/
+base.apk
+aligned.apk
