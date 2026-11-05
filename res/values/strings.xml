@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="module_description">让荣耀 MagicOS 智慧空间支持 AirPods 5（控制中心显示电量/噪声控制/查找耳机）</string>
+    <string name="module_description">让荣耀 MagicOS 智慧空间支持 AirPods 5（控制中心显示电量/噪声控制/查找耳机），并提供荣耀风格三档降噪小组件</string>
+    <string name="widget_label">降噪控制</string>
+    <string name="widget_desc">荣耀风格三档降噪切换：降噪 / 通透 / 关闭</string>
+    <string name="mode_anc">降噪</string>
+    <string name="mode_trans">通透</string>
+    <string name="mode_off">关闭</string>
 </resources>
